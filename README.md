@@ -1,6 +1,6 @@
 # Word Racer - The Ultimate Online Typing Competition
 
-🎮 [Play Word Racer Now]((https://wordracer.online/)
+🎮 [Play Word Racer Now](https://wordracer.online/)
 
 
 ![Word Racer Banner](https://wordracer.online/1.jpg)
